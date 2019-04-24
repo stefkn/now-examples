@@ -2,6 +2,13 @@
 
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/zeit)
 
+To set up any of these examples as your own project, [install Now](https://zeit.co/docs/v2/getting-started/installation) and use the following command in your terminal.
+
+```sh
+now init <example>    # Create a new project from a specific <example>
+now init              # Pick an example in the CLI
+```
+
 ---
 
 ### Programming Languages
@@ -31,7 +38,7 @@
 | [Vuepress](/vuepress) | https://vuepress-v2.now.sh | A docs example using VuePress        |
 | [Nuxt Static](/nuxt-static) | https://nuxt-static-v2.now.sh | A Nuxt Static exported example |
 | [Express](/express) | https://express-v2.now.sh | An example using Express        |
-| [Apollo Server](/apollo) | https://apollo-v2.now.sh | An Apollo Server example using Express        |
+| [Apollo Server](/apollo) | https://apollo.now-examples.now.sh/ | An Apollo Server example using Serverless Micro        |
 | [Markdown](/markdown) | https://markdown-v2.now.sh | A static website using Markdown and CSS        |
 | [MDX Deck](/mdx-deck) | https://mdx-deck-v2.now.sh | A presentation using MDX Deck        |
 | [MDX Deck - Advanced](/mdx-deck-advanced) | https://advanced-mdx-deck.now.sh | A presentation using MDX Deck with custom layout and React components        |
@@ -42,6 +49,7 @@
 | [Zola](/zola) | https://zola.now.sh | A static website uses [Zola](https://www.getzola.org) and builds a website with Rust in the cloud |
 | [Puppeteer](/puppeteer-screenshot) | https://screenshot-v2.now.sh | A Puppeteer based screenshot example |
 | [Jekyll](/jekyll) | https://jekyll.now-examples.now.sh/ | A ready-to-deploy Jekyll site, presetup to pick up and go. |
+| [Flask](/python-flask) | https://python-flask.now-examples.now.sh | An example using Flask, a Python Microframework |
 
 ---
 

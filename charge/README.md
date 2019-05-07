@@ -10,8 +10,6 @@ To get started with Charge.js on Now, you can use the [Now CLI](https://zeit.co/
 $ now init charge
 ```
 
-> Alternatively, create a project, and Git repository, with this example template [using the ZEIT dashboard](https://zeit.co/new/flaskex-postgresql).
-
 ## Example Contents
 
 The example consists of one source directory, `/source`, which contains an index and layout component. `/source` also includes a `/pages` directory where `.mdx` files are stored. This file structure is very basic as Charge focuses on simplicity, however, you are free to use whatever file structure suits your needs best.

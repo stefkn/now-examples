@@ -1,11 +1,9 @@
 module.exports = {
-  title: 'Vuepress',
-  description: 'This is a Zeit Now 2.0 example',
+  title: 'stefannowak.xyz',
+  description: 'stefan kenichiro nowak',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Config Page', link: '/config' },
     ]
   }
 }
